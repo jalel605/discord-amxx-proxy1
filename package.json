@@ -1,0 +1,13 @@
+{
+  "name": "amxx-discord-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for AMXX easy_http GET requests to Discord Webhooks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
